@@ -1,6 +1,6 @@
 # data_SciCompforChem
 
-This is the zipped data for SciCompforChem book for easy download and the PDF version of the book. The main book page is linked below. The book and all files/materials are copyright © 2017-2025 Charles J. Weiss and are released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.
+This is the zipped data page for the Scientific Computing for Chemists with Python book for easy download along with the PDF version of the book. The main book page is linked below. The book and all files/materials are copyright © 2017-2025 Charles J. Weiss and are released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license unless otherwise noted.
 
 [Download PDF Version](https://github.com/weisscharlesj/data_SciCompforChem/blob/main/SciCompforChem_Weiss.pdf)
 
